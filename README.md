@@ -4,10 +4,10 @@ This project is about api test.
 
 # Commands
 
-1. set up test server at *./public* folder
+1. set up test server
 
     ```bash
-    php -S localhost:7001
+    php -S localhost:7001 -t public
     ```
 
 2. run test
